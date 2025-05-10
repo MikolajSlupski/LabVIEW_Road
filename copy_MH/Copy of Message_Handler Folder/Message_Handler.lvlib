@@ -7,8 +7,8 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Message_Handler.vi" Type="VI" URL="../Message_Handler.vi"/>
-	<Item Name="typedeff_CommunicationModuleAction.ctl" Type="VI" URL="../typedeff_CommunicationModuleAction.ctl"/>
-	<Item Name="typedeff_Message.ctl" Type="VI" URL="../typedeff_Message.ctl"/>
-	<Item Name="typedeff_Message_Command.ctl" Type="VI" URL="../typedeff_Message_Command.ctl"/>
-	<Item Name="typedeff_Message_Parameters.ctl" Type="VI" URL="../typedeff_Message_Parameters.ctl"/>
+	<Item Name="typedeff_CommunicationModuleAction_Data.ctl" Type="VI" URL="../typedeff_CommunicationModuleAction_Data.ctl"/>
+	<Item Name="typedeff_Message_Command_Data.ctl" Type="VI" URL="../typedeff_Message_Command_Data.ctl"/>
+	<Item Name="typedeff_Message_Data.ctl" Type="VI" URL="../typedeff_Message_Data.ctl"/>
+	<Item Name="typedeff_Message_Parameters_Data.ctl" Type="VI" URL="../../../typedeff_Message_Parameters_Data.ctl"/>
 </Library>

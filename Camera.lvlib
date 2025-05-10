@@ -5,6 +5,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Loop_Camera_acquisition.vi" Type="VI" URL="../Loop_Camera_acquisition.vi"/>
-	<Item Name="Message_Handler.lvlib" Type="Library" URL="../Message_Handler.lvlib"/>
+	<Item Name="Message_Handler_Camera.lvlib" Type="Library" URL="../Message_Handler_Camera.lvlib"/>
 	<Item Name="typedeff_camera_states.ctl" Type="VI" URL="../typedeff_camera_states.ctl"/>
 </Library>

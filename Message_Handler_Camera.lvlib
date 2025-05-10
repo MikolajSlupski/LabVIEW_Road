@@ -6,9 +6,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Message_Handler.vi" Type="VI" URL="../Message_Handler.vi"/>
-	<Item Name="typedeff_CommunicationModuleAction.ctl" Type="VI" URL="../typedeff_CommunicationModuleAction.ctl"/>
-	<Item Name="typedeff_Message.ctl" Type="VI" URL="../typedeff_Message.ctl"/>
-	<Item Name="typedeff_Message_Command.ctl" Type="VI" URL="../typedeff_Message_Command.ctl"/>
-	<Item Name="typedeff_Message_Parameters.ctl" Type="VI" URL="../typedeff_Message_Parameters.ctl"/>
+	<Item Name="Message_Handler_Camera.vi" Type="VI" URL="../Message_Handler_Camera.vi"/>
+	<Item Name="typedeff_CommunicationModuleAction_Camera.ctl" Type="VI" URL="../typedeff_CommunicationModuleAction_Camera.ctl"/>
+	<Item Name="typedeff_Message_Camera.ctl" Type="VI" URL="../typedeff_Message_Camera.ctl"/>
+	<Item Name="typedeff_Message_Command_Camera.ctl" Type="VI" URL="../typedeff_Message_Command_Camera.ctl"/>
+	<Item Name="typedeff_Message_Parameters_Camera.ctl" Type="VI" URL="../copy_MH/Copy of Message_Handler Folder/typedeff_Message_Parameters_Camera.ctl"/>
 </Library>
