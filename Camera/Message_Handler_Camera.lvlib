@@ -10,5 +10,5 @@
 	<Item Name="typedeff_CommunicationModuleAction_Camera.ctl" Type="VI" URL="../typedeff_CommunicationModuleAction_Camera.ctl"/>
 	<Item Name="typedeff_Message_Camera.ctl" Type="VI" URL="../typedeff_Message_Camera.ctl"/>
 	<Item Name="typedeff_Message_Command_Camera.ctl" Type="VI" URL="../typedeff_Message_Command_Camera.ctl"/>
-	<Item Name="typedeff_Message_Parameters_Camera.ctl" Type="VI" URL="../../copy_MH/Copy of Message_Handler Folder/typedeff_Message_Parameters_Camera.ctl"/>
+	<Item Name="typedeff_Message_Parameters_Camera.ctl" Type="VI" URL="../typedeff_Message_Parameters_Camera.ctl"/>
 </Library>

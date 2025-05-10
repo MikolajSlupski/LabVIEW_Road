@@ -15,7 +15,7 @@
 		<Item Name="Camera.lvlib" Type="Library" URL="../Camera/Camera.lvlib"/>
 		<Item Name="Data_Procesing.lvlib" Type="Library" URL="../Data/Data_Procesing.lvlib"/>
 		<Item Name="Main_Program.vi" Type="VI" URL="../Main_Program.vi"/>
-		<Item Name="Road.lvlib" Type="Library" URL="../Skrzyżowanie/Road.lvlib"/>
+		<Item Name="Road.lvlib" Type="Library" URL="../Road/Road.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Calculate Frames per Second.vi" Type="VI" URL="/&lt;vilib&gt;/vision/Calculate Frames per Second.vi"/>
@@ -25,7 +25,7 @@
 				<Item Name="IMAQdx.ctl" Type="VI" URL="/&lt;vilib&gt;/userDefined/High Color/IMAQdx.ctl"/>
 				<Item Name="NI_Vision_Acquisition_Software.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/driver/NI_Vision_Acquisition_Software.lvlib"/>
 			</Item>
-			<Item Name="#typedef_MessageEnum.ctl" Type="VI" URL="../Skrzyżowanie/MessageHandler/#typedef_MessageEnum.ctl"/>
+			<Item Name="#typedef_MessageEnum.ctl" Type="VI" URL="../Road/MessageHandler/#typedef_MessageEnum.ctl"/>
 			<Item Name="niimaqdx.dll" Type="Document" URL="niimaqdx.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>

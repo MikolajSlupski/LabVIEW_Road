@@ -4,8 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Loop_Data_Processing.vi" Type="VI" URL="../Data/Loop_Data_Processing.vi"/>
-	<Item Name="Message_Handler_Data.lvlib" Type="Library" URL="../Data/Message_Handler_Data.lvlib"/>
-	<Item Name="typedeff_Data_Procesing_states.ctl" Type="VI" URL="../Data/typedeff_Data_Procesing_states.ctl"/>
-	<Item Name="typedeff_Process_data_loop.ctl" Type="VI" URL="../Data/typedeff_Process_data_loop.ctl"/>
+	<Item Name="Loop_Data_Processing.vi" Type="VI" URL="../Loop_Data_Processing.vi"/>
+	<Item Name="Message_Handler_Data.lvlib" Type="Library" URL="../Message_Handler_Data.lvlib"/>
+	<Item Name="typedeff_Data_Procesing_states.ctl" Type="VI" URL="../typedeff_Data_Procesing_states.ctl"/>
+	<Item Name="typedeff_Process_data_loop.ctl" Type="VI" URL="../typedeff_Process_data_loop.ctl"/>
 </Library>
