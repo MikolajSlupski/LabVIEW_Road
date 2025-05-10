@@ -12,7 +12,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Camera.lvlib" Type="Library" URL="../Camera.lvlib"/>
+		<Item Name="Camera.lvlib" Type="Library" URL="../Camera/Camera.lvlib"/>
 		<Item Name="Data_Procesing.lvlib" Type="Library" URL="../Data_Procesing.lvlib"/>
 		<Item Name="Main_Program.vi" Type="VI" URL="../Main_Program.vi"/>
 		<Item Name="Road.lvlib" Type="Library" URL="../Road.lvlib"/>
