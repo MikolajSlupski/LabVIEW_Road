@@ -13,9 +13,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Camera.lvlib" Type="Library" URL="../Camera/Camera.lvlib"/>
-		<Item Name="Data_Procesing.lvlib" Type="Library" URL="../Data_Procesing.lvlib"/>
+		<Item Name="Data_Procesing.lvlib" Type="Library" URL="../Data/Data_Procesing.lvlib"/>
 		<Item Name="Main_Program.vi" Type="VI" URL="../Main_Program.vi"/>
-		<Item Name="Road.lvlib" Type="Library" URL="../Road.lvlib"/>
+		<Item Name="Road.lvlib" Type="Library" URL="../Skrzyżowanie/Road.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Calculate Frames per Second.vi" Type="VI" URL="/&lt;vilib&gt;/vision/Calculate Frames per Second.vi"/>
